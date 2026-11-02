@@ -1,0 +1,19 @@
+{
+  "id": "skill-library",
+  "name": "스킬 라이브러리",
+  "version": "1.0.0",
+  "description": "공개 AI 스킬 저장소를 한곳에 모아 검색·미리보기하고, 에이전트가 필요할 때만 골라 쓰게 합니다.",
+  "owner": "wakhang",
+  "repository": "https://github.com/wakhang/omp-plugin-skill-library",
+  "package": {
+    "url": "https://github.com/wakhang/omp-plugin-skill-library/releases/download/v1.0.0/skill-library-1.0.0.ompplugin",
+    "sha256": "776f941faf2ee76543b885ef29d3740e77a39904c7fd6a01dd89013618d4fab4",
+    "size": 20005
+  },
+  "author": "wakhang",
+  "readme": {
+    "url": "https://github.com/wakhang/omp-plugin-skill-library/releases/download/v1.0.0/README.md",
+    "sha256": "815c2029e3daeae80c4a0df910495275425736dff9612c4b27c329817cd83170",
+    "size": 1924
+  }
+}
